@@ -42,7 +42,8 @@ body {
 }
 .navigation-list-link:hover,
 .navigation-list-link:focus,
-.navigation-list-link:active {
+.navigation-list-link:active,
+.navigation-list-link.current {
   color: var(--accent-color);
 }
 .header-adress-mail,
